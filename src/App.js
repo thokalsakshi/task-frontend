@@ -6,7 +6,6 @@ import Home from "./pages/Home";
 const App = () => {
   return (
     <div className="App">
-      <h1> hi sk</h1>
       <Header />
       <Footer />
       <Home />
